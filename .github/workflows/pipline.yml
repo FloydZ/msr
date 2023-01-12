@@ -16,4 +16,4 @@ jobs:
     - name: make
       run: make
     - name: run
-      run: sudo ./msr
+      run: ./msr
